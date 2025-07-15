@@ -11,7 +11,6 @@
 - 📫 Reach me at:  
   **📧 ajaysinraw20@gmail.com**  
   **🔗 [LinkedIn](https://www.linkedin.com/in/ajay20)**  
-  **💻 [GitHub](https://github.com/AjaySingh25)**
 
 - 📄 Know more about my experiences:  
   [📂 Resume (Google Drive)](https://drive.google.com/file/d/1MOrox0jWKLMXOEt-l2GzGKWS8o5izH9g/view?usp=sharing)
